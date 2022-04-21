@@ -1,30 +1,41 @@
 # 100 Days Of Code - Log
+I have started learning JavaScript from freecodecamp. Below will be my progress of learning
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: April 21, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I have started the basic of JavaScript from freecodecamp
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+- [x] Commenting your javascript code
+- [x] Declare Javascript variables
+- [x] Storing values with the assignment operator
+- [x] Assigning the value of one variable to another
+- [x] Initializing variables with the assignment operator
+- [x] Declaring string variable
+- [x] Understanding Uninitialized Variables
+- [x] Understanding case sensitivity in variables
+- [x] Differences between var and let
+- [x] Declare a Read-only variable with the const keyword
+- [x] Arithmetic operators in javascript
+- [x] Increment/Decrement a number with javascript
+- [x] Finding a remainder in javascript
+- [x] Compound assignment with augmented addition/Subtraction/Multiplication
+- [x] Escaping literal quotes in string with single and double quotes
+- [x] Escape sequencers in string
+- [x] Concatenating string with + operator
+- [x] Constructing string with variables
+- [x] Appending variables to strings
+- [x] Find the length of the string
+- [x] Use bracket notation to find the first character in a string
+- [x] Understand string immutabilty
+- [x] Use brakcet notation to find the nth/last character in a string
+- [x] Word blanks
+- [x] Store Multiple values in one variable using JavaScript Arrays
+- [x] Nest - One array within another array
+- [x] Access array data with indexes
+- [x] Modify array data with indexes
+- [x] Access multi-dimensional array with indexes
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Freecodecamp are organized very well in understanding basics. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** Not yet started real time coding
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
