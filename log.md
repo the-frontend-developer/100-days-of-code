@@ -3,7 +3,7 @@ I have started learning JavaScript from freecodecamp. Below will be my progress 
 
 ### Day 1: April 21, 2022 
 
-**Today's Progress**: I have started the basic of JavaScript from freecodecamp
+**Today's Progress**: I have started the basic of JavaScript from freecodecamp and completed below topics
 
 - [x] Commenting your javascript code
 - [x] Declare Javascript variables
