@@ -64,3 +64,21 @@ I have started learning JavaScript from freecodecamp. Below will be my progress 
 - [x] Comparison with strict equality operator
 - [x] Practice comparing different value
 
+### Day 3: April 23, 2022 
+
+**Today's Progress**: Topics which i learnt today
+
+- [x] Practice comparing different value
+- [x] Comparison with the inequality operator
+- [x] Comparison with the strict Inequality operator
+- [x] Comparison with the greater than operator
+- [x] Comparison with the greater than or equal to operator
+- [x] Comparison with the less than operator
+- [x] Compare with the less than or equal to operator
+- [x] Comparisons with the Logical And Operator
+- [x] Comparisons witht the Logical Or Operator
+- [x] Else Statements
+- [x] Else If statements
+- [x] Logical order in if Else statements
+- [x] Chaining If Else statements
+
